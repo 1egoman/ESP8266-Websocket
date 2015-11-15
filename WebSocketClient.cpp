@@ -7,7 +7,7 @@
 #include "WebSocketClient.h"
 
 #include "sha1.h"
-#include "base64.h"
+#include "Base64.h"
 
 
 bool WebSocketClient::handshake(Client &client) {
